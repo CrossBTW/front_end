@@ -1,0 +1,47 @@
+.block{
+    text-align: center;
+    border: 5px solid blueviolet;
+    background-color: whitesmoke;
+    padding: 30px;
+    margin: 0 0 30px 0;
+}
+
+.block1{
+    background-color: burlywood;
+    border: 5px solid orange;
+    padding: 30px;
+    margin: 0 0 30px 0;
+}
+
+.block2{
+    background-color: aquamarine;
+    border: 5px solid blue;
+    padding: 30px;
+    margin: 0 0 30px 0;
+}
+
+.block3{
+    background-color: pink;
+    border: 5px solid palevioletred;
+    padding: 30px;
+    margin: 0 0 30px 0;
+}
+
+p{
+    color: darkblue;
+    font-size: 30px;
+}
+
+.block1 img{
+    text-align: center;
+    width: 350px;
+}
+
+.block2 img{
+    width: 350px;
+}
+
+.block3 img{
+    width: 350px;
+}
+
